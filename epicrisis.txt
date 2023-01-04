@@ -1,0 +1,30 @@
+Nombre y Apellido: Uriel Marcelo Espada Guerrero		DNI: 40.135,767
+Fecha de nacimiento: 3/5/97
+Fecha de ingreso: 01/05/2022		Fecha de egreso: 25/05/2022
+
+Antecedentes:
+	HIV + (CD4 57, 5%) con TARV TDF/DTG/3TC, tabaquista 20 packyears, sifilis, lues, HTA
+
+Enfermedad actual:
+	Paciente femenina de 50 años de edad, HIV +, CD4 1002 (02/22), CV 10.000 copias/ml, concurre a la guardia por debilidad muscular de 1 mes de evolución. En la guardia se constata bradipsiquia, paresia de miembros inferiores y superiores.
+Se interna para diagnóstico y tratamiento.
+
+Evolución:
+Paciente evoluciona desfavorablemente de forma progresiva con su paresia que se intensifica e imposibilita la marcha.
+Durante la internación intercurre con episodios febriles de foco respiratorio sin rescate microbiológico, lo cual se da tratamiento ATB con ampi/sulbactam.
+Al ver recuperacion parcial, se decide dar el alta el dia de la fecha.
+
+Estudios:
+Laboratorio: Hto: 35, Hb: 11, glu: 80, urea: 39, cr: 0.8, TGO: 20, TGP: 20, FAL: 80, LDH: 150
+Serología
+	CV 20000 (2/05/22), CD4 10 (2/05/22)
+TAC de cerebro SIN contraste (02/05)
+	Se evidencia lesión hipodensa en sustancia blanca de ambos lóbulos frontales que desplaza la línea media.
+LCR (02/05)
+    glu: 40, pro: 0.5, cel: 20 leucocitos PMN
+    Virus junin +
+    IgG toxoplasma -
+
+
+
+
