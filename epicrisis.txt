@@ -3,7 +3,7 @@ Fecha de nacimiento: 3/5/97
 Fecha de ingreso: 01/05/2022		Fecha de egreso: 25/05/2022
 
 Antecedentes:
-	HIV + (CD4 57, 5%) con TARV TDF/DTG/3TC, tabaquista 20 packyears, sifilis, lues, HTA
+	HIV + (CD4 57, 5%) con TARV TDF/DTG/3TC, tabaquista 20 packyears, sifilis, HTA
 
 Enfermedad actual:
 	Paciente femenina de 50 años de edad, HIV +, CD4 1002 (02/22), CV 10.000 copias/ml, concurre a la guardia por debilidad muscular de 1 mes de evolución. En la guardia se constata bradipsiquia, paresia de miembros inferiores y superiores.
